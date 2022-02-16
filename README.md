@@ -4,4 +4,5 @@
 
 1. [Массивы](/3.arrays)
 2. [Функции](/1.base-concepts)
-3. [SQL](/sql)
+3. [Промисы](/promises)
+4. [SQL](/sql)
